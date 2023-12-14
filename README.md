@@ -1,4 +1,4 @@
-# Description
+h# Description
 
 This library provides the data of the paper "An Integrated Predictive Maintenance and Operations Scheduling Framework for Power Systems under Failure Uncertainty" published in INFORMS Journal on Computing, in press.
 
@@ -19,10 +19,10 @@ For each MATPOWER instance, the following data is provided in the .csv file:
   * 'instance'_cost: generator costs
 
 
-Maximum voltage angle ${\delta}^{\max}_i$ and minimum voltage angle ${\delta}^{\min}_i$ are chosen as $\pi$ and $-\pi$ for bus $i \in \mathcal{B}$.
+Maximum voltage angle ${\delta}^{\max}_i$ and minimum voltage angle ${\delta}^{\min}_i$ are chosen as $\pi$ and $-\pi$ for each bus $i \in \mathcal{B}$.
 
 
-Both minimum up time $MU_i$ and minimum down time $MD_i$ are set to $1$ whereas ramp up $RU_i$ and ramp down $RD_i$ rates are chosen as $p_i^{max}$ and $-p_i^{max}$ for generator $i \in \mathcal{G}$.
+Both minimum up time $MU_i$ and minimum down time $MD_i$ are set to $1$ whereas ramp up $RU_i$ and ramp down $RD_i$ rates are chosen as $p_i^{max}$ and $-p_i^{max}$ for each generator $i \in \mathcal{G}$.
 
 # References
 
