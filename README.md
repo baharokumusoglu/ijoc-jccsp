@@ -3,7 +3,7 @@
 This library provides the data of the paper "An Integrated Predictive Maintenance and Operations Scheduling Framework for Power Systems under Failure Uncertainty" published in INFORMS Journal on Computing, in press.
 
 
-We conduct our computational study based on the IEEE instances from MATPOWER (Zimmerman et al. 2011). All other parameters are chosen as their original values in the MATPOWER instance for each system component, unless otherwise stated. 
+We conduct our computational study based on the IEEE instances from MATPOWER ([Zimmerman et al. 2011](https://ieeexplore.ieee.org/document/5491276)). All other parameters are chosen as their original values in the MATPOWER instance for each system component, unless otherwise stated. 
 
 
 For each MATPOWER instance, the following data is provided in the .csv file:
@@ -26,5 +26,5 @@ Both minimum up time $MU_i$ and minimum down time $MD_i$ are set to $1$ whereas 
 
 # References
 
-[R. D. Zimmerman, C. E. Murillo-Sánchez and R. J. Thomas, "MATPOWER: Steady-State Operations, Planning, and Analysis Tools for Power Systems Research and Education," in IEEE Transactions on Power Systems, vol. 26, no. 1, pp. 12-19, Feb. 2011.](https://ieeexplore.ieee.org/document/5491276)
+R. D. Zimmerman, C. E. Murillo-Sánchez and R. J. Thomas, "MATPOWER: Steady-State Operations, Planning, and Analysis Tools for Power Systems Research and Education," in IEEE Transactions on Power Systems, vol. 26, no. 1, pp. 12-19, Feb. 2011.
 
