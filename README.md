@@ -1,4 +1,4 @@
-h# Description
+# Description
 
 This library provides the data of the paper "An Integrated Predictive Maintenance and Operations Scheduling Framework for Power Systems under Failure Uncertainty" published in INFORMS Journal on Computing, in press.
 
