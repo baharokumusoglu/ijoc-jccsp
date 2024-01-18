@@ -1,6 +1,6 @@
 # Description
 
-This library provides the data of the paper "An Integrated Predictive Maintenance and Operations Scheduling Framework for Power Systems under Failure Uncertainty" published in INFORMS Journal on Computing, in press.
+This library provides the data along with the code of the paper "An Integrated Predictive Maintenance and Operations Scheduling Framework for Power Systems under Failure Uncertainty" published in INFORMS Journal on Computing, in press.
 
 
 We conduct our computational study based on the IEEE instances from MATPOWER ([Zimmerman et al. 2011](https://ieeexplore.ieee.org/document/5491276)). All other parameters are chosen as their original values in the MATPOWER instance for each system component, unless otherwise stated. 
